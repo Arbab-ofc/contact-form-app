@@ -12,7 +12,7 @@ A sleek and professional **Contact Form** built with **React JS** and **EmailJS*
 
 ## 🔗 Live Demo
 
-[![Live Demo](https://img.shields.io/badge/View-Live-green?style=for-the-badge&logo=vercel)]()
+[![Live Demo](https://img.shields.io/badge/View-Live-green?style=for-the-badge&logo=vercel)](https://contact-form-app-three.vercel.app/)
 
 
 ---
